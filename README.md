@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="./assets/profile-banner.png" 
+    src="./assets/banner.png" 
     alt="Mahir Afshar - Full Stack Developer" 
     width="100%"
   />
