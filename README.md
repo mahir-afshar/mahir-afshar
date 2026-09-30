@@ -13,7 +13,7 @@
 <h1 align="center">Hi 👋, I'm Mahir Afshar Rohan</h1>
 
 <h3 align="center">
-  A passionate Full-Stack Developer from Bangladesh 🇧🇩
+  A passionate Full-Stack Developer from Bangladesh
 </h3>
 
 <p align="center">
@@ -32,7 +32,6 @@
 - 🌱 I’m currently learning **React, TypeScript, Tailwind CSS and Next.js**
 - 💻 I enjoy building real-world web applications
 - 🚀 Always learning new technologies and improving my development skills
-- 🇧🇩 Based in **Bangladesh**
 - ⚡ Fun fact: **I enjoy turning ideas into real projects and continuously improving my development skills.**
 - 📫 Reach me at **mahirafsher333@gmail.com**
 
